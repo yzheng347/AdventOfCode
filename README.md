@@ -1,2 +1,2 @@
 # AdventOfCode2019
-https://adventofcode.com/2019/about
+More on Advent of Code: https://adventofcode.com/2019/about
